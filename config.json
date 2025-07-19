@@ -1,0 +1,9 @@
+{
+  "app_name": "SDS - StudentsDataSystem Local",
+  "app_version": "v1.2.3",
+  "url": "http://localhost/sds/pages/students.php",
+  "php_test_url": "http://localhost/sds/pages/students.php",
+  "check_php": false,
+  "nav_enabled": true,
+  "iconbitmap": "favicon.ico"
+}
